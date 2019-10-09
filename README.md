@@ -1,0 +1,1 @@
+This is a chrome extension that summerize information for item on eBay
